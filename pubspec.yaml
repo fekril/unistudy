@@ -1,0 +1,45 @@
+name: unistudy
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  # sdk: ^3.9.2
+  sdk: ^3.8.1
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  get: ^4.7.3
+
+  # قاعدة البيانات للموبايل
+  sqflite: ^2.4.2
+
+  # مهم لتشغيل قاعدة البيانات على Windows / Linux / macOS
+  sqflite_common_ffi: ^2.3.6
+
+  path: ^1.9.1
+  intl: ^0.20.2
+  # google_fonts: ^8.1.0
+  google_fonts: ^6.3.2
+  flutter_staggered_animations: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#4F46E5"
+  adaptive_icon_foreground: "assets/icons/app_icon.png"
+
+flutter:
+  uses-material-design: true
