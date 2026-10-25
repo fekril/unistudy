@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 UniStudy | يوني ستدي
+# 🎓 UniStudy
 
 **Your smart companion to organize university subjects, tasks, and notes.**
 **رفيقك الذكي لتنظيم موادك الجامعية ومهامك وملاحظاتك.**
