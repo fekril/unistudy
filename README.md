@@ -9,7 +9,7 @@
 ![Dart](https://img.shields.io/badge/Dart-3.8+-0175C2?logo=dart&logoColor=white)
 ![GetX](https://img.shields.io/badge/State-GetX-8A2BE2)
 ![SQLite](https://img.shields.io/badge/DB-SQLite-003B57?logo=sqlite&logoColor=white)
-![Platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20-4F46E5)
+![Platforms](https://img.shields.io/badge/Platforms-Android%20%7C%204F46E5)
 
 [English](#-english) • [العربية](#-العربية)
 
